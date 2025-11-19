@@ -1,16 +1,21 @@
-# React + Vite
+<img src="image/Black and White Modern Programmer LinkedIn Banner (1).png" alt="">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+### Hi there 👋, Mottasim Billah
+#### I am Learning web development.
+I'm a passionate Front-End Developer specializing in building responsive, user-friendly web applications using in HTML, CSS, JavaScript, and modern frameworks, I focus on creating clean, maintainable code and delivering seamless user experiences.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Skills:  REACT / JS / HTML / CSS
 
-## React Compiler
+- 🌱 I’m currently learning Front end Development on BdCalling Academy  
+- 📫 How to reach me: muttasimbillah21@gmail.com 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/billahbhai07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/billahbhai07/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/billah07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/billahbhai07/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/billahbhai07)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billahbhai07)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=billahbhai07)  
+
